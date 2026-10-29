@@ -1,0 +1,10 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "clima",
+  "version": "1.0.0",
+  "description": "MCP del clima (Open-Meteo, sin API key) + una skill que le dice a Claude cuándo usarlo. Ejemplo del taller «Conéctalo» de Claude Code for Devs.",
+  "author": { "name": "Hiveflow", "url": "https://hiveflow.ai" },
+  "homepage": "https://github.com/hiveflowai/claude-code-conectalo",
+  "license": "MIT",
+  "keywords": ["mcp", "clima", "open-meteo", "taller"]
+}

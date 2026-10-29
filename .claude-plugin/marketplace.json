@@ -1,0 +1,12 @@
+{
+  "name": "conectalo",
+  "owner": { "name": "Hiveflow", "url": "https://hiveflow.ai" },
+  "metadata": { "description": "Plugins de ejemplo del taller «Conéctalo» (Claude Code for Devs)." },
+  "plugins": [
+    {
+      "name": "clima",
+      "source": "./plugins/clima",
+      "description": "MCP del clima (Open-Meteo) + skill que le dice a Claude cuándo usarlo."
+    }
+  ]
+}
